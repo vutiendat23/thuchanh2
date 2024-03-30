@@ -20,6 +20,6 @@ public class whileloopd {
             sum += a;
             b = b / 10;
         }
-        return b % sum == 0;
+        return n % sum == 0;
     }
 }
